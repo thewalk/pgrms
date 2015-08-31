@@ -1,0 +1,1 @@
+{"success":true,"result":[{"id":1,"parentProjectId":-1,"description":"PROJECT_1"},{"id":2,"parentProjectId":1,"description":"Release_1"},{"id":3,"parentProjectId":1,"description":"Release_2"},{"id":4,"parentProjectId":-1,"description":"Project_2"},{"id":5,"parentProjectId":4,"description":"release_1"}]}

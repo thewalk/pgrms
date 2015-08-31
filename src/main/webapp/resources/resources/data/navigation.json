@@ -1,0 +1,68 @@
+{
+    "expanded" : true,
+    "id"       : "root",
+    "children" : [
+        {
+            "text"      : "Column Charts",
+            "expanded"  : true,
+			"iconCls": "task-folder",
+            "children"  : [
+                {
+                    "id"    : "basic-column",
+                    "text"  : "Basic",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "clustered-column",
+                    "text"  : "Clustered",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "stacked-column",
+                    "text"  : "Stacked",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "stacked-column-100",
+                    "text"  : "100% Stacked",
+					"iconCls": "task",
+                    "leaf"  : true
+                }
+            ]
+        },
+        {
+            "text"      : "Bar Charts",
+            "expanded"  : true,
+			"iconCls": "task-folder",
+            "children"  : [
+                {
+                    "id"    : "basic-bar",
+                    "text"  : "Basic",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "clustered-bar",
+                    "text"  : "Clustered",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "stacked-bar",
+                    "text"  : "Stacked",
+					"iconCls": "task",
+                    "leaf"  : true
+                },
+                {
+                    "id"    : "stacked-bar-100",
+                    "text"  : "100% Stacked",
+					"iconCls": "task",
+                    "leaf"  : true
+                }
+            ]
+        }
+    ]
+}
